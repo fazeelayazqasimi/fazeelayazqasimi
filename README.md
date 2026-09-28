@@ -27,7 +27,7 @@
 ```js
 const fazeel = {
   name: "Fazeel Ayaz Qasimi",
-  role: ["Full Stack Developer", "IT Manager @ Mihwar Digital"],
+  role: "Full Stack Developer",
   location: "Karachi, Pakistan 🇵🇰",
   experience: "4+ years",
   focus: ["Web Apps", "Mobile Apps", "Workflow Automation", "SaaS Platforms"],
