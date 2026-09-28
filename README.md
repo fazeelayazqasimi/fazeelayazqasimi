@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```js
 const fazeel = {
@@ -33,15 +33,15 @@ const fazeel = {
   focus: ["Web Apps", "Mobile Apps", "Workflow Automation", "SaaS Platforms"],
   currentlyBuilding: "Connexus",
   currentlyLearning: ["AI agents & automation", "System design", "Rust"],
-  funFact: "I'd rather automate a 5-minute task for 5 hours 😄",
+  funFact: "I'd rather automate a 5-minute task for 5 hours ",
 };
 ```
 
-- 🔭 Currently building **[Connexus](https://connexusco.com/)** — lead generation & outreach automation
-- 🏢 Leading dev & IT at **Mihwar Digital**, a digital agency delivering websites, mobile apps and automation
-- 🛒 Delivered projects for e-commerce brands, restaurants, steel companies and local businesses
-- 🤖 Love scraping, APIs, AI-powered tooling and anything that removes manual work
-- 📫 Reach me: **fazeelayazqasimi31@gmail.com**
+-  Currently building **[Connexus](https://connexusco.com/)** — lead generation & outreach automation
+-  Leading dev & IT at **Mihwar Digital**, a digital agency delivering websites, mobile apps and automation
+-  Delivered projects for e-commerce brands, restaurants, steel companies and local businesses
+-  Love scraping, APIs, AI-powered tooling and anything that removes manual work
+-  Reach me: **fazeelayazqasimi31@gmail.com**
 
 ---
 
@@ -100,26 +100,26 @@ const fazeel = {
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🔗 **Connexus Lead** | Google Maps scraping + cold-outreach automation with Sheets integration | Python, Playwright, Google Sheets |
-| 🎯 **Apollo Lead Scraper** | Lead scraping tool with a FastAPI backend and React dashboard | FastAPI, React, Playwright |
-| 📈 **Trading Institute** | Course & subscription platform with referral commissions and admin panel | MERN |
-| 💬 **Broadcast Operations Panel** | Multi-tenant WhatsApp Business API broadcast SaaS with super-admin and company-admin roles | Node.js, React, WhatsApp API |
-| 🍽️ **My Table** | Restaurant reservation mobile app | React Native, Expo |
-| 🚗 **NovaDrive** | E-commerce store with 3D product viewer and admin dashboard | Next.js |
-| 🏠 **Estatify** | Real estate property management portal with import & analytics | PHP, MySQL |
-| 👥 **DevTeam CRM** | Team CRM with attendance, reporting and admin tools | PHP |
-| 🛍️ **Shopify Themes** | Custom Liquid themes and sections for multiple client brands | Shopify, Liquid |
-| 🤖 **Jarvis** | Windows voice assistant with wake word and a local AI brain | Python |
+|  **Connexus Lead** | Google Maps scraping + cold-outreach automation with Sheets integration | Python, Playwright, Google Sheets |
+|  **Apollo Lead Scraper** | Lead scraping tool with a FastAPI backend and React dashboard | FastAPI, React, Playwright |
+|  **Trading Institute** | Course & subscription platform with referral commissions and admin panel | MERN |
+|  **Broadcast Operations Panel** | Multi-tenant WhatsApp Business API broadcast SaaS with super-admin and company-admin roles | Node.js, React, WhatsApp API |
+|  **My Table** | Restaurant reservation mobile app | React Native, Expo |
+|  **NovaDrive** | E-commerce store with 3D product viewer and admin dashboard | Next.js |
+|  **Estatify** | Real estate property management portal with import & analytics | PHP, MySQL |
+|  **DevTeam CRM** | Team CRM with attendance, reporting and admin tools | PHP |
+|  **Shopify Themes** | Custom Liquid themes and sections for multiple client brands | Shopify, Liquid |
+|  **Jarvis** | Windows voice assistant with wake word and a local AI brain | Python |
 
-> 📌 Pin your best 6 repos on your profile and link them here.
+>  Pin your best 6 repos on your profile and link them here.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -132,23 +132,23 @@ const fazeel = {
 
 </div>
 
-### 📈 Contribution Graph
+###  Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fazeelayazqasimi&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 ---
 
-## 🧭 What I Can Build For You
+##  What I Can Build For You
 
-- 🌐 **Websites & web apps** — business sites, dashboards, admin panels, SaaS
-- 📱 **Mobile apps** — cross-platform apps with React Native / Flutter
-- ⚙️ **Automation** — scrapers, outreach pipelines, WhatsApp/email workflows
-- 🛒 **E-commerce** — Shopify themes, custom stores, payment & catalog flows
-- 🧠 **AI integrations** — voice assistants, smart tooling, data pipelines
+-  **Websites & web apps** — business sites, dashboards, admin panels, SaaS
+-  **Mobile apps** — cross-platform apps with React Native / Flutter
+-  **Automation** — scrapers, outreach pipelines, WhatsApp/email workflows
+-  **E-commerce** — Shopify themes, custom stores, payment & catalog flows
+-  **AI integrations** — voice assistants, smart tooling, data pipelines
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm open to freelance projects, collaborations and interesting ideas.
 
